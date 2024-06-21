@@ -1,0 +1,24 @@
+{
+    "msg": "操作成功",
+    "code": 200,
+    "data": [
+        {
+            "begda": "0000-00-00",
+            "ename": "张三",
+            "icnum": "",
+            "infty": "ITEM3",
+            "message": "发生未知错误",
+            "pernr": "00001",
+            "status": "E"
+        },
+        {
+            "begda": "0000-00-00",
+            "ename": "李四",
+            "icnum": "",
+            "infty": "ITEM3",
+            "message": "处理完成",
+            "pernr": "00002",
+            "status": "S"
+        }
+    ]
+}
